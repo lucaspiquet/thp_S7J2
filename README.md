@@ -1,1 +1,4 @@
-# thp_S7J2
+# Kit UI
+
+Projet réalisé par Lucas Piquet
+
